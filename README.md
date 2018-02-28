@@ -15,6 +15,8 @@ g++ [nome arquivo] -o [nome_programa].exe
 [nome_programa].exe
 ```
 
+## Usuários Linux
+Já devem saber como faz :-)
 
 ## Aula 1 28-02-2018
 Ponteiros
