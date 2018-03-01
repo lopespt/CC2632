@@ -19,7 +19,14 @@ g++ [nome arquivo] -o [nome_programa].exe
 Já devem saber como faz :-)
 
 ## Aula 1 28-02-2018
-Ponteiros
+### Esquenta
+- Programinhas para dar um gás no curso
+- Aprendemos um pouco sobre o terminal do Linux
+- Baixe e teste algumas distribuições: Ubuntu, Mint, Fedora, etc...
+- Instale o Powershell no Windows
+
+### Ponteiros
+- enderecos.c: só mostra os endereços das variáveis
 
 
 
